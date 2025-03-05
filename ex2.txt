@@ -5,5 +5,6 @@ printf("after 3:%d",3++);
 printf("before 3:%d",--3);
 printf("AND of 3 and 4:%d",3&4);
 printf("OR of 3 4:%d",3|4);
+printf("div of 3 4:%d",3/4);
 return 0;
 }
